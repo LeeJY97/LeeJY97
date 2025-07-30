@@ -1,6 +1,10 @@
 <!-- https://www.markdownguide.org/cheat-sheet/ -->
 <!-- cmd + /, ctrl + / : 주석 -> 인식이 안되는 글 -->
 
+![프로필 얼굴](my-notion-face-portrait.png)
+안녕하세요 저는 '이재윤'입니다.
+
+- 바이브 코딩
 <!-- headline 또는 heading -->
 # 제목1
 ## 제목2
